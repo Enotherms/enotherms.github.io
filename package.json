@@ -1,0 +1,28 @@
+{
+  "name": "enotherms.github.io",
+  "version": "1.0.0",
+  "description": "enotherms personal porto",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@enotherms.github.com:enotherms/enotherms.github.io.git"
+  },
+  "author": "enotherms <alfath.dioni@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "engines": {
+    "node": ">=16.17.0"
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.5",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
