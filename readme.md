@@ -1,4 +1,4 @@
-## fathalfath30.github.io
+## enotherms.github.io
 I made this repository only to be used as my portfolio on enotherms.github.io only.
 
 ## Template by
